@@ -4,9 +4,12 @@
 
 ```python
 python knn_iris_classifier.py
+'''
+
 
 2. Enter the number of numbers
-
+3. View the models' accuracy and balanced accuracy in the console.
+4. Input **sepal.length** and **petal.length** in the format **value1, value2** to predict the iris species.
 
 
 # Example
